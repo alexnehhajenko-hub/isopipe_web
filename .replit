@@ -1,0 +1,2 @@
+run = "sh -c 'flutter config --enable-web && flutter pub get && flutter run -d web-server --web-port=$PORT --web-hostname=0.0.0.0'"
+language = "bash"
