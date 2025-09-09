@@ -1,0 +1,16 @@
+name: isopipe
+description: IsoPipe MVP — Flutter Web (Replit)
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  uuid: ^4.4.0
+
+flutter:
+  uses-material-design: true
